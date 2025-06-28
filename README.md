@@ -14,7 +14,7 @@
 
 No link abaixo é possível ver o vídeo de apresentação do projeto com mais detalhes:
 
-[Link para apresentação]()
+[Link para apresentação](https://youtu.be/hGuAdw0RGlI)
 
 ## **Sobre**
 
