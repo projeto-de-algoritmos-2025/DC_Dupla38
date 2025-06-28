@@ -26,12 +26,12 @@ O trabalho visa não apenas desenvolver habilidades técnicas na resolução de 
 
 A seguir, a tabela com as questões a serem resolvidas e suas respectivas informações:
 
-| Responsável pela resolução | Link da questão | Tema do problema | Nível de dificuldade |
-|---------------------------|----------------|------------------------|----------------------|
-| Suzane Duarte | https://leetcode.com/problems/maximum-subarray/description/ | Maximum Subarray | Médio |
-| Suzane Duarte | Adicionar | Adicionar | Difícil |
-| Luana Torres | Adicionar | Adicionar | Médio |
-| Luana Torres | Adicionar | Adicionar | Difícil |
+| Questão | Responsável pela resolução | Link da questão | Tema do problema | Nível de dificuldade |
+|--------|---------------------------|----------------|------------------------|----------------------|
+|Questão 1| Suzane Duarte | https://leetcode.com/problems/maximum-subarray/description/ | Maximum Subarray | Médio |
+|Questão 2| Suzane Duarte | Adicionar | Adicionar | Difícil |
+|Questão 3| Luana Torres | Adicionar | Adicionar | Médio |
+|Questão 4| Luana Torres | Adicionar | Adicionar | Difícil |
 
 
 ## **Objetivos do Projeto**
