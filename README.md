@@ -18,7 +18,7 @@ No link abaixo é possível ver o vídeo de apresentação do projeto com mais d
 
 ## **Sobre**
 
-Este projeto tem como foco a resolução de problemas do site **Beecrowd**, utilizando a linguagem **Python** como ferramenta principal para implementar soluções eficientes e organizadas.
+Este projeto tem como foco a resolução de problemas do site **LeetCode**, utilizando a linguagem **Python** como ferramenta principal para implementar soluções eficientes e organizadas.
 
 O objetivo da iniciativa é aplicar de forma prática os conhecimentos adquiridos na disciplina de **Projeto de Algoritmos**, com ênfase em estratégias como algoritmos gananciosos, força bruta, dividir e conquistar, entre outros. Cada problema selecionado é acompanhado de uma análise de sua proposta, implementação da solução e verificação de desempenho.
 
@@ -30,8 +30,8 @@ A seguir, a tabela com as questões a serem resolvidas e suas respectivas inform
 |--------|---------------------------|----------------|------------------------|----------------------|
 |Questão 1| Suzane Duarte | https://leetcode.com/problems/maximum-subarray/description/ | Maximum Subarray | Médio |
 |Questão 2| Suzane Duarte | https://leetcode.com/problems/the-skyline-problem/ | The Skyline Problem | Difícil |
-|Questão 3| Luana Torres | Adicionar | Adicionar | Médio |
-|Questão 4| Luana Torres | Adicionar | Adicionar | Difícil |
+|Questão 3| Luana Torres | https://leetcode.com/problems/kth-largest-element-in-an-array/ | Kth Largest Element in an Array | Médio |
+|Questão 4| Luana Torres | https://leetcode.com/problems/reverse-pairs/ | Reverse Pairs| Díficil |
 
 
 ## **Objetivos do Projeto**
@@ -61,15 +61,23 @@ Questão 2:
 
 Resolução da Questão 2: 
 
-![Questão 1](assets/TheSkylineProblem.png) 
+![Questão 2](assets/TheSkylineProblem.png) 
 
-Questão 3:
+Descrição da Questão 3:
 
-![Questão 3]() 
+![Questão 3](assets/kthLargestElementPergunta.png) 
 
-Questão 4:
+Resolução da Questão 3: 
 
-![Questão 4]() 
+![Questão 3](assets/kthLargestElement.png) 
+
+Descrição da Questão 4:
+
+![Questão 4](assets/reversePairsPergunta.png) 
+
+Resolução da Questão 4: 
+
+![Questão 4](assets/reversePairs.png) 
 
 ## **Instalação**
 
@@ -81,12 +89,12 @@ Questão 4:
 
 ## **Uso**
 
-1. Acesse o site e faça login: https://judge.beecrowd.com/pt/login
+1. Acesse o site e faça login: https://app.learnleetcode.com/login
 
 2. Ao acessar determinado problema, escolha a linguagem a qual deseja submeter o código para a resolução do problema.
 
-3. Insira o código para resolução do problema no campo "Source Code". 
+3. Insira o código para resolução do problema no campo "</>Code". 
 
-4. Selecione o botão "Enviar" 
+4. Selecione o botão "Submit" 
 
 5. Confira se a resolução proposta para o exercício foi submetida corretamente.
