@@ -28,7 +28,7 @@ A seguir, a tabela com as questões a serem resolvidas e suas respectivas inform
 
 | Responsável pela resolução | Link da questão | Tema do problema | Nível de dificuldade |
 |---------------------------|----------------|------------------------|----------------------|
-| Suzane Duarte | Adicionar | Adicionar | Médio |
+| Suzane Duarte | https://leetcode.com/problems/maximum-subarray/description/ | Maximum Subarray | Médio |
 | Suzane Duarte | Adicionar | Adicionar | Difícil |
 | Luana Torres | Adicionar | Adicionar | Médio |
 | Luana Torres | Adicionar | Adicionar | Difícil |
@@ -47,9 +47,13 @@ A seguir, a tabela com as questões a serem resolvidas e suas respectivas inform
 
 A seguir, são apresentados screenshots das questões resolvidas: 
 
-Questão 1:
+Descrição da Questão 1:
 
-![Questão 1]() 
+![Questão 1](assets/maximumSubarraypergunta.png) 
+
+Resolução da Questão 1: 
+
+![Questão 1](assets/maximumSubarray.png) 
 
 Questão 2:
 
