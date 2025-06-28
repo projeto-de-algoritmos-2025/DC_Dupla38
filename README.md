@@ -57,7 +57,11 @@ Resolução da Questão 1:
 
 Questão 2:
 
-![Questão 2]() 
+![Questão 2](assets/TheSkylineProblemPergunta.png) 
+
+Resolução da Questão 2: 
+
+![Questão 1](assets/TheSkylineProblem.png) 
 
 Questão 3:
 
